@@ -1,4 +1,4 @@
 def name
-    puts "Jerome"
-    print "Hardaway"
+    puts "John"
+    print "Garcia"
 end
