@@ -9,6 +9,5 @@ def say_hello(name, health=100)
 end
 
 
-
 say_hello("larry", 10)
 say_hello("jake")
